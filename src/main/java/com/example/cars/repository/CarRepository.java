@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Data
-
 public class CarRepository {
     private List<Car> carList = new ArrayList<>();
 
